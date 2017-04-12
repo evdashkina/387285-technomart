@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Tatyana Evdokimova](https://up.htmlacademy.ru/htmlcss/17/user/387285).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Семушкин](https://htmlacademy.ru/profile/id48647).
 
 ---
 
