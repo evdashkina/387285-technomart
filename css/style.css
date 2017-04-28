@@ -1,0 +1,13 @@
+body {
+	font-size: 14px;
+	line-height: 1,44;
+	color: #000000;
+	font-weight: normal;
+	font-family: "Cuprum";
+}
+.head-1 {
+	font-size: 16px;
+	line-height: 1,44;
+	color: #ee3643;
+	font-style: italic;
+}
